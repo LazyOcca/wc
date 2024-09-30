@@ -1,4 +1,4 @@
 # wc
  for peepeepoopoo
 
-print("Eat my peepee, drimk my poopoo")
+print("Eat my peepee, drink my poopoo")
